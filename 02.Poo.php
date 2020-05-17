@@ -16,7 +16,7 @@ class Automovil{
 
     public function mostrar(){
 
-        echo "<p>HOLA! soy un $this->marca,modelo $this->modelo</p>";
+        echo "<p>HOLA! soy un $this->marca, modelo $this->modelo</p>";
 
     }
 
@@ -29,6 +29,11 @@ $a = new Automovil();
 $a -> marca = "Toyota";
 $a -> modelo = "Corolla";
 $a -> mostrar();
+
+$b = new Automovil();
+$b -> marca = "Hyundai";
+$b -> modelo = "Accent Vision";
+$b -> mostrar();
 
 
 ?>
