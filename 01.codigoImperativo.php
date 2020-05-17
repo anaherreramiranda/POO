@@ -18,6 +18,11 @@ function mostrar($automovil){
 
 mostrar($automovil1);
 mostrar($automovil2);
+mostrar($automovil3);
+mostrar($automovil4);
+mostrar($automovil5);
+mostrar($automovil6);
+mostrar($automovil7);
 
 
 ?>
