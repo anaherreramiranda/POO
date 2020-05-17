@@ -35,5 +35,30 @@ $b -> marca = "Hyundai";
 $b -> modelo = "Accent Vision";
 $b -> mostrar();
 
+$c = new Automovil();
+$c -> marca = "Ford";
+$c -> modelo = "EcoSport";
+$c -> mostrar();
+
+$d = new Automovil();
+$d -> marca = "Fiat";
+$d -> modelo = "Bravo";
+$d -> mostrar();
+
+$e = new Automovil();
+$e -> marca = "Ferrari";
+$e -> modelo = "458 Italia";
+$e -> mostrar();
+
+$f = new Automovil();
+$f -> marca = "Honda";
+$f -> modelo = "Jazz";
+$f -> mostrar();
+
+$g = new Automovil();
+$g -> marca = "Hyundai";
+$g -> modelo = "Tucson";
+$g -> mostrar();
+
 
 ?>
