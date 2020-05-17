@@ -65,5 +65,10 @@ $g -> marca = "Hyundai";
 $g -> modelo = "Tucson";
 $g -> mostrar();
 
+#Principios de la POO  que se cumplen en este ejemplo:
+
+#ABSTRACCIÓN: Nuevos de datos (el que tu quieras, tu lo creas)
+#ENCAPSULAMIENTO: Organizar el código en grupos lógicos
+#OCULTAMIENTO: Ocultar detalles de implementación y exponer sólo los detalles que sean necesarios para el resto del sistema
 
 ?>
