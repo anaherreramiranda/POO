@@ -4,7 +4,11 @@
 
 $automovil1 = (object)["marca"=>"Toyota", "modelo"=>"Corolla"];
 $automovil2 = (object)["marca"=>"Hyundai", "modelo"=>"Accent Vision"];
-
+$automovil3 = (object)["marca"=>"Ford", "modelo"=>"EcoSport"];
+$automovil4 = (object)["marca"=>"Fiat", "modelo"=>"Bravo"];
+$automovil5 = (object)["marca"=>"Ferrari", "modelo"=>"458 Italia"];
+$automovil6 = (object)["marca"=>"Honda", "modelo"=>"Jazz"];
+$automovil7 = (object)["marca"=>"Hyundai", "modelo"=>"Tucson"];
 
 function mostrar($automovil){
 
