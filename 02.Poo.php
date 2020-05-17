@@ -16,13 +16,19 @@ class Automovil{
 
     public function mostrar(){
 
-
+        echo "<p>HOLA! soy un $this->marca,modelo $this->modelo</p>";
 
     }
 
-
-
-
 }
+
+#OBJETO :
+#Una entidad provista de métodos o mensajes a los cuales corresponden propiedades con valores concretos.
+
+$a = new Automovil();
+$a -> marca = "Toyota";
+$a -> modelo = "Corolla";
+$a -> mostrar();
+
 
 ?>
