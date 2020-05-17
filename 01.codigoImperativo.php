@@ -12,7 +12,8 @@ function mostrar($automovil){
 
 }
 
-
+mostrar($automovil1);
+mostrar($automovil2);
 
 
 ?>
